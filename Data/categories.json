@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ba898d59-0200-4dc4-80f8-18dec3f79678",
+    "categoryName": "Non-Fiction",
+    "categoryDescription": "Explore the realms of knowledge with our captivating non-fiction collection, where facts come alive and curiosity is sparked. From riveting true stories to thought-provoking analyses of the world around us, this book category delves into the depths of reality, offering readers a diverse array of engaging narratives, insightful perspectives, and a wealth of information to enrich the mind.",
+    "primaryImageUrl": "https://raw.githubusercontent.com/sameer8saini/TheBookStore.StaticContent/main/Images/non-fiction-category.jpg"
+  },
+  {
+    "id": "3954ea0c-eace-4b5a-9abb-71fa6bb3e7a4",
+    "categoryName": "Fiction",
+    "categoryDescription": "Explore the realms of knowledge with our captivating fiction collection, where facts come alive and curiosity is sparked. From riveting true stories to thought-provoking analyses of the world around us, this book category delves into the depths of reality, offering readers a diverse array of engaging narratives, insightful perspectives, and a wealth of information to enrich the mind.",
+    "primaryImageUrl": "https://raw.githubusercontent.com/sameer8saini/TheBookStore.StaticContent/main/Images/fiction-category.jpg"
+  },
+  {
+    "id": "45f43532-1d8f-45a5-a7c9-226fe16199a6",
+    "categoryName": "Cooking Food and Wine",
+    "categoryDescription": "Embark on a culinary journey with our Food, Cooking, and Wine category, where the art of gastronomy comes to life. Delight in a rich palette of recipes, culinary techniques, and flavor profiles that cater to both novice cooks and seasoned chefs. From delectable dishes to the perfect wine pairings, this category invites you to savor the world's diverse culinary traditions, explore innovative cooking methods, and raise a glass to the joy of gastronomic experiences.",
+    "primaryImageUrl": "https://raw.githubusercontent.com/sameer8saini/TheBookStore.StaticContent/main/Images/food-category.jpg"
+  },
+  {
+    "id": "2dbfc7ac-7c12-4088-8eac-7f56c3c017a5",
+    "categoryName": "Science Fiction",
+    "categoryDescription": "Dive into the boundless realms of imagination with our Science Fiction collection. Explore futuristic landscapes, encounter extraterrestrial beings, and embark on thrilling adventures that push the boundaries of what's possible. From mind-bending concepts to gripping space operas, this category transports readers to galaxies far, far away, offering a captivating blend of speculative fiction that sparks curiosity and ignites the imagination.",
+    "primaryImageUrl": "https://raw.githubusercontent.com/sameer8saini/TheBookStore.StaticContent/main/Images/science-fiction-category.jpg"
+  },
+  {
+    "id": "8222c70c-4189-440d-b285-7d9c0a5afd20",
+    "categoryName": "New Arrivals",
+    "categoryDescription": "A collection of new arrival books",
+    "primaryImageUrl": "https://raw.githubusercontent.com/sameer8saini/TheBookStore.StaticContent/main/Images/new-arrival-category.jpg"
+  }
+]
